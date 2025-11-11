@@ -1,6 +1,6 @@
 {
-  "name": "Kagoshima Doctor Car PWA",
-  "short_name": "DoctorCar",
+  "name": "Kagoshima muscle PWA",
+  "short_name": "Muscle app",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -26,3 +26,4 @@
     }
   ]
 }
+
